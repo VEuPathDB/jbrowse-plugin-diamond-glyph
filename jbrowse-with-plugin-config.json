@@ -52,8 +52,8 @@
   },
   "plugins": [
     {
-      "name": "Template",
-      "url": "http://localhost:9000/dist/jbrowse-plugin-template.umd.development.js"
+      "name": "Diamond",
+      "url": "http://localhost:9000/dist/jbrowse-plugin-diamond-glyph.umd.development.js"
     }
   ]
 }
