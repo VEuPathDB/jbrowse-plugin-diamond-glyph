@@ -5,7 +5,6 @@ import type PluginManager from '@jbrowse/core/PluginManager'
  * Ported from JBrowse1 VEuPath Plugins
  */
 export function createDiamondGlyph(pluginManager: PluginManager) {
-  // @ts-expect-error - GlyphType exists but may not be in type definitions
   const { GlyphType } = pluginManager.jbrequire(
     '@jbrowse/core/pluggableElementTypes',
   )
