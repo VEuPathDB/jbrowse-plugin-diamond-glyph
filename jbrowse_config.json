@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    {
+      "name": "Diamond",
+      "url": "http://localhost:9001/dist/jbrowse-plugin-diamond.umd.development.js"
+    }
+  ]
+}

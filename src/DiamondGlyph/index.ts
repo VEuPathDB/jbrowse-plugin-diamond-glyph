@@ -1,0 +1,1 @@
+export { createDiamondGlyph } from './DiamondGlyph'
